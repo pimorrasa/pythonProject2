@@ -53,5 +53,3 @@ z = x%z
 
 # แสดงผลค่าตัวแปร z formatted print  -- > print(f{...}
 print(f'z = {z}')
-
-
